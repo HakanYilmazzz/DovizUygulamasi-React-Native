@@ -1,4 +1,4 @@
-
+<img src="/merge.png" width="1300" height="600">
 
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
